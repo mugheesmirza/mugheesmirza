@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 🔧 **Associate MLOps Engineer** at [Machine Learning 1 Limited](https://ml1.com.pk)
+- 🔧 **MLOps Engineer** at [Machine Learning 1 Limited](https://ml1.ai)
 - 🎓 B.Sc. Mechatronics & Control Engineering — UET Lahore
 - 🏗️ Managing **60+ Kubernetes clusters** hosting **140+ AI microservices**
 - ⚡ Built an Internal Developer Platform that cut deployment time by ~60–70%
